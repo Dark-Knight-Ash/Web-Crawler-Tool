@@ -17,16 +17,28 @@ A powerful and user-friendly **Streamlit** app that crawls websites, extracts in
 
 
 
-## 🖼️ Live Demo
+## 🖼️ Live 
 
-> [Link to Streamlit Cloud App (Add after deployment)](https://web-crawler-tool.streamlit.app/)
+> (https://web-crawler-tool-d54aefczarbkseie3yp47m.streamlit.app/)
 
 
 
 ## 📸 Screenshots
 
-![Screenshot](screenshot.png)
+### 🏠 Home Page
+![Home Page](Screenshots/Home_Page.png)
 
+### 🔎 Crawl Results
+![Crawl Results](Screenshots/Filter_Results.png)
+
+### 🔎 Crawl Summary
+![Crawl Summary](Screenshots/Crawl_Summary.png)
+
+### 🔎 Crawl Summary
+![Parameter Frequency](Screenshots/Parameter_Frequency.png)
+
+### 🔎 Crawl Summary
+![Preview URLS](Screenshots/Preview_URL'S.png)
 
 
 ## 🛠️ Installation
