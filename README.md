@@ -1,8 +1,9 @@
+ HEAD
 # 🕸️ Web Crawler Tool
 
 A powerful and user-friendly **Streamlit** app that crawls websites, extracts internal URLs, and identifies **URL parameters**. Visualize and filter results easily with built-in charts and download options.
 
----
+
 
 ## 🚀 Features
 
@@ -14,19 +15,19 @@ A powerful and user-friendly **Streamlit** app that crawls websites, extracts in
 - ⏱️ Timer to track crawl duration
 - 🗂️ Sidebar navigation with interactive UI
 
----
+
 
 ## 🖼️ Live Demo
 
 > [Link to Streamlit Cloud App (Add after deployment)](https://web-crawler-tool.streamlit.app/)
 
----
+
 
 ## 📸 Screenshots
 
 ![Screenshot](screenshot.png)
 
----
+
 
 ## 🛠️ Installation
 
@@ -44,3 +45,7 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run app.py
+
+# Web-Crawler-Tool
+A Streamlit-based tool to crawl URLs and extract parameters.
+ ec803ac3fbe3df60cd4f1fd681bd7de9ce06b3ce
